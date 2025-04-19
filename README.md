@@ -1,6 +1,6 @@
 # Landing-page-two
 
-[Link do strony]()
+[Link do strony](https://norbianonymous.github.io/landing-page-two/)
 
 Opis:
 
